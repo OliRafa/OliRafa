@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Rafael Oliveira! 👋
 
-<!--
-**OliRafa/OliRafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 Machine Learning Engineer and Data Scientist, passionated about self-improvement and leadership as a way to make the world a better place <br>
+💼 Former Tech Lead / Machine Learning Engineer at Dod, currently Data Scientist at Indrema <br>
+🎓 M.Sc. in Information Systems / B.S. in Computer Science
+🇧🇷 Born in Medianeira, Brazil <br>
+🇵🇹 Living in Bragança, Portugal <br>
 
-Here are some ideas to get you started:
+### Find me elsewhere 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [Email] (olirafa@protonmail.com) <br>
+📸 [Instagram](https://instagram.com/rafao19) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/olirafa) <br>
