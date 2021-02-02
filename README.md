@@ -8,6 +8,6 @@
 
 ### Find me elsewhere 🌎
 
-📫 [Email] (olirafa@protonmail.com) <br>
+📫 [Email](olirafa@protonmail.com) <br>
 📸 [Instagram](https://instagram.com/rafao19) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/olirafa) <br>
