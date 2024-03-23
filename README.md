@@ -5,7 +5,7 @@
 💼 Former Tech Lead / Machine Learning Engineer at Dod, currently Data Engineer / Architect at [Apiax](https://www.apiax.com/).<br>
 🎓 M.Sc. in Information Systems / B.S. in Computer Science.<br>
 🇧🇷 Born in Medianeira, Brazil<br>
-🇵🇹 Living in Bragança, Portugal<br>
+🇵🇹 Living in Porto, Portugal<br>
 
 ### Find me elsewhere 🌎
 
